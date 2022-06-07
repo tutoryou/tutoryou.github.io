@@ -55,7 +55,7 @@
 
 可以直接微信咨询 ：Tutor_0914
 
-![微信号](./zh-cn/image/wechat.jpg)
+![微信号](./image/wechat.jpg)
 
 ## 访问量统计
 <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
