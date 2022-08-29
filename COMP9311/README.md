@@ -50,3 +50,16 @@ Practice Excercises：Jas 单独写出来给学生们们练习用的，不算分
 感觉到，要找工作单单会 PostgreSQL 还是不够用，industry 里面 90% 还是用 MySQL (会了 PosgreSQL 相信 MySQL 也能很快学会)。对于后端开发来说，Psycopg2 也远远不够用（对数据分析可能是够了），想学会部署网站后端的数据库得自学Flask-SQLalchemy。不知道 PL/pgSQL 用得多不多，看了很多澳洲的分析岗和后端开发岗 JD 都没有要求。
 
 如果大家想快速自学一些 industrial skills （比如数据分析，前后端开发），建议可以去 Linkedin Learing 看看，用 UNSW 邮箱登录可以免费学习平台上的所有课程。
+
+
+## 联系我
+
+最后。如果同学们在本门课程的任何环节中遇到问题，欢迎随时与我联系！
+
+我可以在任何环节提供包括授课在内的任何形式的辅导。
+
+针对同学基础，1V1辅导。
+
+欢迎加我微信联系： Tutor_0914
+
+![图片](../image/wechat.jpg)
