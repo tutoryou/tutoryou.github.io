@@ -1,5 +1,9 @@
 # 留学生Computer Science基础课程辅导
 
+详情也可访问个人辅导网站以及bilibili的讲课视频。
+[个人网站](https://tutoryou.github.io/#/)
+[bilibili](https://space.bilibili.com/1461992540/video)
+
 ## 背景
 本仓库是本人在辅导澳大利亚学生学习计算机以及金融的过程中，所总结的课程评价以及复习资料等。
 
