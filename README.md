@@ -2,7 +2,7 @@
 
 详情也可访问个人辅导网站以及bilibili的讲课视频。
 
-[个人非常导网站](https://tutoryou.github.io/#/)
+[个人辅导网站](https://tutoryou.github.io/#/)
 
 [bilibili讲课视频](https://space.bilibili.com/1461992540/video)
 
