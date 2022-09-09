@@ -1,32 +1,23 @@
-- 前言
-    - [网站简介](zh-cn/README.md)
-    - [个人简介](zh-cn/my.md)
-    
-- 新南威尔士大学
-    - [comp1511 编程基础](../COMP1511/README.md)
-    - [comp1521 系统编程基础](../COMP1521/README.md)
-    - [comp1531 软件工程](../COMP1531/README.md)
-    - [comp2041 软件构造](../COMP2041/README.md)
-    - [comp2511 软件工程Java](../COMP2511/README.md)
-    - [comp2521 数据结构](../COMP2521/README.md)
-    - [comp3121 理论算法](../COMP3121/README.md)
-    - [comp3311 数据库](../COMP3311/README.md)
-    - [comp3331 计算机网络](../COMP3331/README.md)
-    - [comp6080 前端](../COMP6080/README.md)
-    - [comp9021 Python编程原则](../COMP9021/README.md)
-    - [comp6771 C++高级教程](../COMP6771/README.md)
-    - [comp9044 软件构造](../COMP9044/README.md)
-    - [comp9024 数据结构与算法](../COMP9024/README.md)
-    - [comp9101 理论算法](../COMP9101/README.md)
-    - [comp9311 数据库](../COMP9311/README.md)
-    - [comp9313 大数据开发](../COMP9313/README.md)
-    - [comp9331 计算机网络](../COMP9331/README.md)
-    - [comp9334 网络和容量规划](../COMP9334/README.md)
-    - [comp9444 机器学习深度学习导论](../COMP9444/README.md)
-    - [comp9517 计算机视觉](../COMP9517/README.md)
-    - [comp9418 统计机器学习](../COMP9418/README.md)
-    - [comp9814 人工智能](../COMP9814/README.md)
+- **快速上手**
+  - [开始](/快速上手/开始.md)
+  - [顶部导航栏](/快速上手/顶部导航栏.md)
+  - [封面](/快速上手/封面.md)
+- **自定义**
+  - [配置](/自定义/配置.md)
+  - [主题](/自定义/主题.md)
+  - [插件](/自定义/插件.md)
+  - [开发插件](/自定义/开发插件.md)
+  - [Markdown 配置](/自定义/Markdown配置.md)
+  - [代码高亮](/自定义/代码高亮.md)
+- **指南**
 
-- 澳大利亚大学
+  - [部署](/指南/部署.md)
+  - [扩展的 Markdown 语法](/指南/扩展的Markdown语法.md)
+  - [兼容 vue](/指南/兼容vue.md)
+  - [vue 组件示例](/指南/vue组件示例.md)
+  - [CDN](/指南/CDN.md)
+  - [离线缓存](/指南/离线缓存.md)
+  - [服务器端渲染](/指南/服务器端渲染.md)
+  - [文件嵌入](/指南/文件嵌入.md)
 
-- 其他地区大学
+- **示例**
