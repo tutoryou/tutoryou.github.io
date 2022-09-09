@@ -1,4 +1,4 @@
-<img width="160px" style="border-radius: 50%" bor src="style/head_portrait.jpg">
+<img width="160px" style="border-radius: 50%" bor src="style/head_portrait.png">
 
 # **国外计算机课程辅导介绍**
 
